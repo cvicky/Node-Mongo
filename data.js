@@ -32,7 +32,7 @@ const data = [
     "first_name": "Shakira",
     "last_name": "",
     "email": "shakira@hipsdontlie.com",
-    "website": "http://hipsdontlie"
+    "website": "http://hipsdontlie.com"
   }
 ];
 
